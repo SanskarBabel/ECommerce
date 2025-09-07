@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { User, ShoppingCart, Search, Filter, Plus, Minus, Trash2, LogOut } from 'lucide-react';
 
 interface User {
